@@ -1,0 +1,2 @@
+[console_scripts]
+ai-world3 = ai_world3.cli:main

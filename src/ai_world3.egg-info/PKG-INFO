@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: ai-world3
+Version: 0.1.0
+Summary: AI-World3: System dynamics simulation of AI automation vs social stability
+Requires-Python: >=3.10
+Requires-Dist: numpy>=1.26
+Requires-Dist: pandas>=2.1
+Requires-Dist: matplotlib>=3.8
+Requires-Dist: scipy>=1.11
+Provides-Extra: dev
+Requires-Dist: pytest>=7.4; extra == "dev"

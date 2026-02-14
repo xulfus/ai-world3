@@ -1,0 +1,17 @@
+pyproject.toml
+src/ai_world3/__init__.py
+src/ai_world3/cli.py
+src/ai_world3/model.py
+src/ai_world3/scenarios.py
+src/ai_world3/sensitivity.py
+src/ai_world3/simulator.py
+src/ai_world3/visualizer.py
+src/ai_world3.egg-info/PKG-INFO
+src/ai_world3.egg-info/SOURCES.txt
+src/ai_world3.egg-info/dependency_links.txt
+src/ai_world3.egg-info/entry_points.txt
+src/ai_world3.egg-info/requires.txt
+src/ai_world3.egg-info/top_level.txt
+tests/test_model.py
+tests/test_scenarios.py
+tests/test_simulator.py
